@@ -1,0 +1,10 @@
+procedimento interface()
+inicio
+   Escreval("----------------------------------------")
+   Escreval("--------- --------")
+   Escreval("------- ---------")
+   escreval("")
+   escreval("----------------------------------------")
+   escreval()
+
+fimprocedimento

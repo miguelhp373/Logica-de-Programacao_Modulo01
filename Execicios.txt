@@ -1,0 +1,29 @@
+1.   [x] Escrever um programa que receba o nome e a idade de uma pessoa.
+     [X] Calcule essa idade em meses, dias e horas. Mostre o nome e a idade em meses, dias e horas.
+
+ 
+
+2.   [] Escrever um programa para determinar o consumo médio de um automóvel sendo fornecida a distância total percorrida pelo automóvel 
+     [] e o total de combustível gasto.
+
+ 
+
+3.   []Escrever um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro).
+     []Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no final do mês.
+
+ 
+
+4.   []Faça um programa que receba um valor que foi depositado e exiba o valor com rendimento após um mês.
+     []Considere fixo o juro da poupança em 0,70% a. m.
+
+ 
+
+5.   []Escrever um programa que leia o nome de um aluno e as notas das três provas que ele obteve no semestre. 
+     []No final, informar o nome do aluno e a sua média (aritmética).
+
+
+
+6.   []Em um curso de Ciência da Computação a nota do estudante é calculada a partir de três notas atribuídas, 
+	respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. As notas variam, 
+	de 0 a 10 e a nota final é a média ponderada das três notas mencionadas.
+ 	A tabela abaixo fornece os pesos: Laboratório Peso 2; Avaliação semestral Peso 3; Exame final Peso 5.
