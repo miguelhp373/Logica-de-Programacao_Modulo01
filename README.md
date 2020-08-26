@@ -1,11 +1,11 @@
 # Logica de Programacao
-</br>
+
  <h1>Conteudos da Aula de Lógica de Programação</h1>
-</br>
+
 <img src="https://2.bp.blogspot.com/-JGNZOd5Kxms/Tuk3QgGB1rI/AAAAAAAAAEI/h_L9CtBAUZE/s200/1-6.jpg">
-</br>
-<a href="https://sourceforge.net/projects/visualg30/files/latest/download"><img height="50" width="50" src="https://cdn.pixabay.com/photo/2017/04/05/04/18/download-2203950_960_720.png"> &nbsp Download Da Ferramenta VisualG 3.0</a>
-</br>
+
+<a href="https://sourceforge.net/projects/visualg30/files/latest/download"><img height="50" width="50" src="https://cdn.pixabay.com/photo/2017/04/05/04/18/download-2203950_960_720.png">  Download Da Ferramenta VisualG 3.0</a>
+
 <h2>Exercicios Feitos Nas Aulas</h2>
 <ul>
  <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/CALCULADORA%20DE%20AREA%20DE%20TRIANGULO.ALG">
