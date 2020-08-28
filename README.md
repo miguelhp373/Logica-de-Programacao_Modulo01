@@ -33,10 +33,14 @@
 
 <h2>Exercicios Propóstos</h2>
 <ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios/EXERCICIO1.ALG"><li>Exercicio 1 - Cálculo de Idade</li></a>
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios/EXERCICIO2.ALG"><li>Exercicio 2 - Cálculo de Combustivel</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios/EXERCICIO1.ALG">
+ <li>Exercicio 1 - Cálculo de Idade</li></a>
  
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO3.ALG"><li>Exercicio 3 - Ficha Funcionário </li></a>
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios/EXERCICIO2.ALG">
+  <li>Exercicio 2 - Cálculo de Combustivel</li></a>
+ 
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO3.ALG">
+ <li>Exercicio 3 - Ficha Funcionário </li></a>
 
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO4.ALG">
  <li>Exercicio 4 - Rendimento de Um Depósito
