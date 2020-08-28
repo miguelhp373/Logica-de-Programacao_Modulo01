@@ -20,53 +20,33 @@ inicio
 fimprocedimento
 
 Var
-   nota1,nota2,nota3,notafinal:real
+   nota1,nota2,nota3,notafinal,n1,n2,n3:real
 Inicio
 
    interface()
-   repita
-      Escreval("Digite A Nota Da Matéria [Laboratório](obs: nota máxima = 2)")
+      Escreval("Digite A Nota Da Matéria [Laboratório]: ")
       Escreva("Nota:")
       leia(nota1)
-      se(nota1>2)entao
-         limpatela
-         interface()
-         escreval("Nota Incorreta Digite Novamente")
-         Escreval()
-      fimse
-   ate(nota1<=2)
 
    limpatela
    interface()
-   repita
-      Escreval("Digite A Nota Da [Avaliação Semestral] (obs: nota máxima = 3")
+      Escreval("Digite A Nota Da [Avaliação Semestral]: ")
       Escreva("Nota:")
       leia(nota2)
-      se(nota1>3)entao
-         limpatela
-         interface()
-         escreval("Nota Incorreta Digite Novamente")
-         Escreval()
-      fimse
-   ate(nota1<=3)
 
 
    limpatela
    interface()
-   repita
-      Escreval("Digite A Nota do [Exame Final] (obs: nota máxima = 5):")
+      Escreval("Digite A Nota do [Exame Final]: ")
       Escreva("Nota:")
       leia(nota3)
-      se(nota1>5)entao
-         limpatela
-         interface()
-         escreval("Nota Incorreta Digite Novamente")
-         Escreval()
-      fimse
-   ate(nota1<=5)
 
-   notafinal:= nota1+nota2+nota3
 
+   n1:= nota1 * 2
+   n2:= nota2 * 3
+   n3:= nota3 * 5
+   notafinal:=(n1+n2+n3)/10
+   limpatela
 
    Escreva("A Nota Final do Aluno é: ",notafinal:2:1)
 

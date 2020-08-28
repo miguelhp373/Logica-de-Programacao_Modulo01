@@ -1,9 +1,7 @@
 Algoritmo "Exercicio5"
 
 Var
-   notas:vetor[1..3]de real
-   cont:inteiro
-   media,tot,final:real
+   media,nota1,nota2,nota3:real
    nome:caracter
 
 
@@ -12,16 +10,15 @@ Inicio
    leia(nome)
 
    limpatela
-   para cont <- 1 ate 3 faca
-      escreva("Informe",cont)
-      leia(notas[cont])
-      limpatela
-   fimpara
-   para cont <- 1 ate 3 faca
-      tot<-notas[cont]
-      final<-tot+tot
-   fimpara
-   media:=final/3
+      escreva("Informe a 1º :")
+      leia(nota1)
+
+      escreva("Informe a 2º:")
+      leia(nota2)
+      escreva("Informe a 3º: ")
+      leia(nota3)
+
+   media:= (nota1 + nota2 + nota3)/3
    limpatela
    escreval("---------------------")
    escreval("Nome do Aluno: ",nome)
