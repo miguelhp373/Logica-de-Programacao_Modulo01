@@ -47,7 +47,7 @@
  </li></a>
 
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO5.ALG">
- li>Exercicio 5 - Média de Um Aluno</li></a>
+ <li>Exercicio 5 - Média de Um Aluno</li></a>
 
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO6.ALG">
  <li>Exercicio 6 - Média Ponderada de Um Aluno</li></a>
