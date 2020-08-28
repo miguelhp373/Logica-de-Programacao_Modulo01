@@ -33,10 +33,10 @@
 
 <h2>Exercicios Propóstos</h2>
 <ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios/EXERCICIO1.ALG">
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO1.ALG">
  <li>Exercicio 1 - Cálculo de Idade</li></a>
  
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios/EXERCICIO2.ALG">
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO2.ALG">
   <li>Exercicio 2 - Cálculo de Combustivel</li></a>
  
  <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO3.ALG">
