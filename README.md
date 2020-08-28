@@ -1,4 +1,3 @@
-# Logica de Programacao
  <h1>Conteudos da Aula de Lógica de Programação</h1>
 
 <img src="https://2.bp.blogspot.com/-JGNZOd5Kxms/Tuk3QgGB1rI/AAAAAAAAAEI/h_L9CtBAUZE/s200/1-6.jpg">
