@@ -20,11 +20,14 @@
  <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/FASE%20DA%20VIDA.ALG">
   <li>Fase da Vida</li></a>
  
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/IPVA.ALG"><li>IPVA</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/IPVA.ALG">
+ <li>IPVA</li></a>
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/LEITOR%20DE%20VALORES.ALG"><li>Leitor de Valores</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/LEITOR%20DE%20VALORES.ALG">
+ <li>Leitor de Valores</li></a>
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/SOMA%20DO%20QUADRADOS.ALG"><li>Soma dos Quadrados</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/SOMA%20DO%20QUADRADOS.ALG">
+ <li>Soma dos Quadrados</li></a>
 
 </ul>
 
@@ -35,9 +38,13 @@
  
  <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO3.ALG"><li>Exercicio 3 - Ficha Funcionário </li></a>
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO4.ALG"><li>Exercicio 4 - Rendimento de Um Depósito</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO4.ALG">
+ <li>Exercicio 4 - Rendimento de Um Depósito
+ </li></a>
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO5.ALG"><li>Exercicio 5 - Média de Um Aluno</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO5.ALG">
+ li>Exercicio 5 - Média de Um Aluno</li></a>
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO6.ALG"><li>Exercicio 6 - Média Ponderada de Um Aluno</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO6.ALG">
+ <li>Exercicio 6 - Média Ponderada de Um Aluno</li></a>
 </ul>
