@@ -1,0 +1,11 @@
+Algoritmo ""
+
+Var
+
+
+
+Inicio
+
+
+
+Fimalgoritmo
