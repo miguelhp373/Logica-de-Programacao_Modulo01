@@ -59,6 +59,6 @@
  <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%203.ALG"><li>Exercicio 3</li></a>
  <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%204.ALG"><li>Exercicio 4</li></a>
  <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%207.ALG"><li>Exercicio 7</li></a>
- <a href=""><li>Exercicio 8</li></a>
- <a href=""><li>Exercicio 9</li></a>
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%208.ALG"><li>Exercicio 8</li></a>
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%209.ALG"><li>Exercicio 9</li></a>
 </ul>
