@@ -51,3 +51,14 @@
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO6.ALG">
  <li>Exercicio 6 - Média Ponderada de Um Aluno</li></a>
 </ul>
+
+<h2>Exercicios Dia 29/08/2020</h2>
+<ul>
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%201.ALG"><li>Exercicio 1</li></a>
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%202.ALG"><li>Exercicio 2</li></a>
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%203.ALG"><li>Exercicio 3</li></a>
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%204.ALG"><li>Exercicio 4</li></a>
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%207.ALG"><li>Exercicio 7</li></a>
+ <a href=""><li>Exercicio 8</li></a>
+ <a href=""><li>Exercicio 9</li></a>
+</ul>
