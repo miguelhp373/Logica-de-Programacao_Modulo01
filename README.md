@@ -30,7 +30,7 @@
 
 </ul>
 
-<h2>Exercicios Propóstos Dia 20/08/2020 </h2>
+<h2>Exercicios Dia 20/08/2020 </h2>
 <ul>
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO1.ALG">
  <li>Exercicio 1 - Cálculo de Idade</li></a>
