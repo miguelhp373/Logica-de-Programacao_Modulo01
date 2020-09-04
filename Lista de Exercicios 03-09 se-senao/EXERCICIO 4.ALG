@@ -19,16 +19,16 @@ Inicio
    leia(n4)
    limpatela
 
-   se(n1>n2)e(n1>n3)e(n1>n4)entao
+   se(n1>=n2)e(n1>=n3)e(n1>=n4)entao
       ma:=n1
    senao
-      se(n2>n1)e(n2>n3)e(n2>n4)entao
+      se(n2>=n1)e(n2>=n3)e(n2>=n4)entao
          ma:=n2
       senao
-         se(n3>n1)e(n3>n2)e(n3>n4)entao
+         se(n3>=n1)e(n3>=n2)e(n3>=n4)entao
             ma:=n3
          senao
-            se(n4>n1)e(n4>n2)e(n4>n3)entao
+            se(n4>=n1)e(n4>=n2)e(n4>=n3)entao
                ma:=n4
             senao
             fimse
@@ -38,16 +38,16 @@ Inicio
 
 
 
-   se(n1<n2)e(n1<n3)e(n1<n4)entao
+   se(n1<=n2)e(n1<=n3)e(n1<=n4)entao
       me:=n1
        senao
-      se(n2<n1)e(n2<n3)e(n2<n4)entao
+      se(n2<=n1)e(n2<n3)e(n2<=n4)entao
          me:=n2
          senao
-         se(n4<n1)e(n4<n2)e(n4<n3)entao
+         se(n4<=n1)e(n4<=n2)e(n4<=n3)entao
             me:=n3
               senao
-            se(n3<n1)e(n3<n2)e(n3<n4)entao
+            se(n3<=n1)e(n3<=n2)e(n3<=n4)entao
                me:=n3
             fimse
          fimse
