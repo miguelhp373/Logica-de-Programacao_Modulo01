@@ -65,8 +65,8 @@
 
 <h2>Exercicios Se/Senao Dia 03/09/2020</h2>
 <ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%201.ALG"><li>Exercicio 1</li</a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%202.ALG"><li>Exercicio 2</li</a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%203.ALG"><li>Exercicio 3</li</a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%204.ALG"><li>Exercicio 4</li</a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%201.ALG"><li>Exercicio 1</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%202.ALG"><li>Exercicio 2</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%203.ALG"><li>Exercicio 3</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%204.ALG"><li>Exercicio 4</li></a>
 </ul>
