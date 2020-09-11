@@ -73,6 +73,6 @@
 
 <h2>Exercicios Dia 10/09/2020 </h2>
 <ul>
-<a href=""><li>Exercicio 1</li></a>
-<a href=""><li>Exercicio 2</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2010-09%20condicoes/EXERCICIO1.ALG"><li>Exercicio 1</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2010-09%20condicoes/EXERCICIO2.ALG"><li>Exercicio 2</li></a>
 </ul>
