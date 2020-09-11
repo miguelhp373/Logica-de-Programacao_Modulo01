@@ -32,23 +32,23 @@
 
 <h2>Exercicios Dia 20/08/2020 </h2>
 <ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO1.ALG">
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO1.ALG">
  <li>Exercicio 1 - Cálculo de Idade</li></a>
  
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO2.ALG">
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO2.ALG">
   <li>Exercicio 2 - Cálculo de Combustivel</li></a>
  
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO3.ALG">
+ <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO3.ALG">
  <li>Exercicio 3 - Ficha Funcionário </li></a>
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO4.ALG">
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO4.ALG">
  <li>Exercicio 4 - Rendimento de Um Depósito
  </li></a>
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO5.ALG">
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO5.ALG">
  <li>Exercicio 5 - Média de Um Aluno</li></a>
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%201%C2%BAAula/EXERCICIO6.ALG">
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO6.ALG">
  <li>Exercicio 6 - Média Ponderada de Um Aluno</li></a>
 </ul>
 
@@ -65,10 +65,10 @@
 
 <h2>Exercicios Se/Senao Dia 03/09/2020</h2>
 <ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%201.ALG"><li>Exercicio 1</li></a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%202.ALG"><li>Exercicio 2</li></a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%203.ALG"><li>Exercicio 3</li></a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20se-senao/EXERCICIO%204.ALG"><li>Exercicio 4</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%201.ALG"><li>Exercicio 1</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%202.ALG"><li>Exercicio 2</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%203.ALG"><li>Exercicio 3</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%204.ALG"><li>Exercicio 4</li></a>
 </ul>
 
 <h2>Exercicios Dia 10/09/2020 </h2>
