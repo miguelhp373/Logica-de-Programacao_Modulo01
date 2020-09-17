@@ -79,5 +79,5 @@
 
 <h2>Exercicios Dia 17/09/2020</h2>
 <ul>
-<a href=""><li>Exercicio 1 - Delta</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2017-09/Exercicio%201%20-%20DELTA.ALG"><li>Exercicio 1 - Delta</li></a>
 </ul>
