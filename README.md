@@ -27,7 +27,7 @@
 
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/SOMA%20DO%20QUADRADOS.ALG">
  <li>Soma dos Quadrados</li></a>
-
+<a href=""><li>Divisão</li></a>
 </ul>
 
 <h2>Exercicios Dia 20/08/2020 </h2>
@@ -75,4 +75,9 @@
 <ul>
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2010-09%20condicoes/EXERCICIO1.ALG"><li>Exercicio 1</li></a>
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2010-09%20condicoes/EXERCICIO2.ALG"><li>Exercicio 2</li></a>
+</ul>
+
+<h2>Exercicios Dia 17/09/2020</h2>
+<ul>
+<a href=""><li>Exercicio 1 - Delta</li></a>
 </ul>
