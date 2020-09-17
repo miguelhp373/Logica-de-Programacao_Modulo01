@@ -27,7 +27,7 @@
 
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/SOMA%20DO%20QUADRADOS.ALG">
  <li>Soma dos Quadrados</li></a>
-<a href=""><li>Divisão</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/DIVIS%C3%A3O.ALG"><li>Divisão</li></a>
 </ul>
 
 <h2>Exercicios Dia 20/08/2020 </h2>
