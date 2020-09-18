@@ -1,4 +1,4 @@
-Algoritmo "Exercicio 2"
+Algoritmo "Exercicio2"
 //leia um numero n e verifique se é divisivel por x
 Var
    divisao,resto:real
