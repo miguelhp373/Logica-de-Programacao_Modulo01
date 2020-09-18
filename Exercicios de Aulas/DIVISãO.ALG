@@ -2,12 +2,14 @@ Algoritmo "Divisão"
 
 Var
 valor,resto,num:inteiro
-divisao:real
+divisao,x:real
 
 
 Inicio
 Escreva("Digite o Número a Ser Dividido: ")
 leia(valor)
+Escreva("div")
+leia(x)
 
 divisao:=valor/2
 resto:= valor mod 2
