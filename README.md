@@ -80,5 +80,5 @@
 <h2>Exercicios Dia 17/09/2020</h2>
 <ul>
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2017-09/Exercicio%201%20-%20DELTA.ALG"><li>Exercicio 1 - Delta</li></a>
-<a href=""><li>Exercicio 2 - Números Divisiveis</li></a>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2017-09/EXERCICIO%202%20-%20Numeros%20Divisiveis.ALG"><li>Exercicio 2 - Números Divisiveis</li></a>
 </ul>
