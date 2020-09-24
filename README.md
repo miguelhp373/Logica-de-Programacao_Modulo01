@@ -82,3 +82,12 @@
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2017-09/Exercicio%201%20-%20DELTA.ALG"><li>Exercicio 1 - Delta</li></a>
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2017-09/EXERCICIO%202%20-%20Numeros%20Divisiveis.ALG"><li>Exercicio 2 - Números Divisiveis</li></a>
 </ul>
+
+<h2>Exercicios Dia 24/09/2020</h2>
+<ul>
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio1-SaldoBancario.ALG"><li>Exercicio 1 - Saldo Bancário</li></a>
+
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio2-OrdemCrescente.ALG"><li>Exercicio 2 - Ordem Crescente</li></a>
+
+<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio3-IndentificadordeTriangulos.ALG"><li>Exercicio 3 - Indentificador de Triângulos</li></a>
+</ul>
