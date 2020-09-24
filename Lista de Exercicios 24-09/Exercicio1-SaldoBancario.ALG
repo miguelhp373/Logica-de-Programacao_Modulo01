@@ -5,19 +5,6 @@ Var
    info1,info2,info3,enter,pass,user:caracter
 Inicio
 
-      Escreval("-------------")
-      Escreval("--Bankback---")
-      Escreval("-------------")
-      Escreval()
-      escreval("Usuário: ")
-      leia(user)
-      limpatela
-      escrevaL("Senha: ")
-      leia(pass)
-      Escreva("Aperte Enter Para Proceseguir")
-     leia(enter)
-   limpatela
-
    Escreva("Informe o Saldo Atual da Conta:R$")
    leia(saldoatual)
    limpatela
