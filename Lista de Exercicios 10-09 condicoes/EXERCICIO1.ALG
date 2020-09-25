@@ -25,18 +25,38 @@ Inicio
 
    se(nadador>=5)e(nadador<=7)entao
       cat:=ia
+      escreval("---------------------------")
+      escreval("Idade do Nadador: Infantil A", nadador ,"anos")
+      escreval("Categoria: ",cat)
+      escreval("---------------------------")
    senao
       se(nadador>=8)e(nadador<=10)entao
          cat:=ib
+         escreval("---------------------------")
+         escreval("Idade do Nadador: Infantil B", nadador ,"anos")
+         escreval("Categoria: ",cat)
+         escreval("---------------------------")
       senao
          se(nadador>=11)e(nadador<=13)entao
             cat:=ja
+            escreval("---------------------------")
+           escreval("Idade do Nadador: Juvenil A", nadador ,"anos")
+            escreval("Categoria: ",cat)
+            escreval("---------------------------")
          senao
             se(nadador>=14)e(nadador<=17)entao
                cat:=jb
+               escreval("---------------------------")
+               escreval("Idade do Nadador: Juvenil B", nadador ,"anos")
+               escreval("Categoria: ",cat)
+               escreval("---------------------------")
             senao
                se(nadador>=18)e(nadador<=25)entao
                   cat:=s
+                  escreval("---------------------------")
+                  escreval("Idade do Nadador: Sênior", nadador ,"anos")")
+                  escreval("Categoria: ",cat)
+                  escreval("---------------------------")
                senao
                   escreval("---------------------------")
                   escreval("Idade Fora da Faixa Etária")
@@ -47,11 +67,5 @@ Inicio
       fimse
    fimse
 
-   se(cat=ja)ou(cat=jb)ou(cat=ia)ou(cat=ib)ou(cat=s)entao
-      escreval("---------------------------")
-      escreval("Idade do Nadador: ",nadador," anos")
-      escreval("Categoria: ",cat)
-      escreval("---------------------------")
-   fimse
 
 Fimalgoritmo
