@@ -91,3 +91,8 @@
 
 <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio3-IndentificadordeTriangulos.ALG"><li>Exercicio 3 - Indentificador de Triângulos</li></a>
 </ul>
+
+<h2>Exercicio Dia 08/10/2020</h2>
+<ul>
+<a href=""><li>Exercicio Calculo de Salario Liquido</li></a>
+</ul>
