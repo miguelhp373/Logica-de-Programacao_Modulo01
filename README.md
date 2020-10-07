@@ -1,98 +1,102 @@
- <h1>Conteudos da Aula de Lógica de Programação</h1>
+# Conteudos da Aula de Lógica de Programação
 
-<img src="https://2.bp.blogspot.com/-JGNZOd5Kxms/Tuk3QgGB1rI/AAAAAAAAAEI/h_L9CtBAUZE/s200/1-6.jpg">
+![icone do visualg](https://2.bp.blogspot.com/-JGNZOd5Kxms/Tuk3QgGB1rI/AAAAAAAAAEI/h_L9CtBAUZE/s200/1-6.jpg)
 
-<a href="https://sourceforge.net/projects/visualg30/files/latest/download"><img height="50" width="50" src="https://cdn.pixabay.com/photo/2017/04/05/04/18/download-2203950_960_720.png">Download Da Ferramenta VisualG 3.0</a>
+[VisualG Download](https://sourceforge.net/projects/visualg30/files/latest/download)
 
-<h2>Exercicios Feitos Nas Aulas</h2>
+***
+ ## Exercicios Feitos Nas Aulas
 
-<ul>
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/CALCULADORA%20DE%20AREA%20DE%20TRIANGULO.ALG">
-  <li>Calculadora de Area de Triangulo</li></a>
+ - [Calculadora de Area de Triangulo](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/CALCULADORA%20DE%20AREA%20DE%20TRIANGULO.ALG)
+
+ - [Calculadora](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/CALCULADORA.ALG)
  
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/CALCULADORA.ALG">
-  <li>Calculadora</li></a>
+ - [Conversor de Moedas](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/CONVERSOR%20DE%20MOEDA.ALG)
  
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/CONVERSOR%20DE%20MOEDA.ALG">
-  <li>Conversor de Moedas</li></a>
+ - [Fase da Vida](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/FASE%20DA%20VIDA.ALG)
+
+ - [IPVA](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/IPVA.ALG)
  
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/FASE%20DA%20VIDA.ALG">
-  <li>Fase da Vida</li></a>
+ - [Leitor de Valores](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/LEITOR%20DE%20VALORES.ALG)
  
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/IPVA.ALG">
- <li>IPVA</li></a>
-
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/LEITOR%20DE%20VALORES.ALG">
- <li>Leitor de Valores</li></a>
-
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/SOMA%20DO%20QUADRADOS.ALG">
- <li>Soma dos Quadrados</li></a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/DIVIS%C3%A3O.ALG"><li>Divisão</li></a>
-</ul>
-
-<h2>Exercicios Dia 20/08/2020 </h2>
-<ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO1.ALG">
- <li>Exercicio 1 - Cálculo de Idade</li></a>
+ - [Soma dos Quadrados](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/SOMA%20DO%20QUADRADOS.ALG)
  
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO2.ALG">
-  <li>Exercicio 2 - Cálculo de Combustivel</li></a>
+ - [Divisão](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/DIVIS%C3%A3O.ALG)
+  
+ ***
+
+## Exercicios Dia 20/08/2020
+
+- [Exercicio 1 - Cálculo de Idade](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO1.ALG)
+
+- [Exercicio 2 - Cálculo de Combustivel](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO2.ALG)
+
+- [Exercicio 3 - Ficha Funcionário](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO3.ALG)
+
+- [Exercicio 4 - Rendimento de Um Depósito](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO4.ALG)
+
+- [Exercicio 5 - Média de Um Aluno](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO5.ALG)
+
+- [Exercicio 6 - Média Ponderada de Um Aluno](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO6.ALG)
+
+***
+## Exercicios Dia 29/08/2020
+
+- [Exercicio 1](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%201.ALG)
+
+- [Exercicio 2](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%202.ALG)
+
+- [Exercicio 3](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%203.ALG)
+
+- [Exercicio 4](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%204.ALG)
+
+- [Exercicio 7](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%207.ALG)
+
+- [Exercicio 8](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%208.ALG)
+
+- [Exercicio 9](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%209.ALG)
+
+***
+
+## Exercicios Se e Senao Dia 03/09/2020
+
+- [Exercicio 1](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%201.ALG)
+
+- [Exercicio 2](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%202.ALG)
+
+- [Exercicio 3](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%203.ALG)
+
+- [Exercicio 4](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%204.ALG)
+
+***
+
+## Exercicios Dia 10/09/2020
+
+- [Exercicio 1](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2010-09%20condicoes/EXERCICIO1.ALG)
+
+- [Exercicio 2](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2010-09%20condicoes/EXERCICIO2.ALG) 
+
+
+***
+
+## Exercicios Dia 17/09/2020
+
+- [Exercicio 1 - Delta](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2017-09/Exercicio%201%20-%20DELTA.ALG)
  
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO3.ALG">
- <li>Exercicio 3 - Ficha Funcionário </li></a>
+- [Exercicio 2 - Números Divisiveis](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2017-09/EXERCICIO%202%20-%20Numeros%20Divisiveis.ALG)
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO4.ALG">
- <li>Exercicio 4 - Rendimento de Um Depósito
- </li></a>
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO5.ALG">
- <li>Exercicio 5 - Média de Um Aluno</li></a>
+***
 
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2020-08/EXERCICIO6.ALG">
- <li>Exercicio 6 - Média Ponderada de Um Aluno</li></a>
-</ul>
+## Exercicios Dia 24/09/2020
 
-<h2>Exercicios Dia 29/08/2020</h2>
-<ul>
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%201.ALG"><li>Exercicio 1</li></a>
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%202.ALG"><li>Exercicio 2</li></a>
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%203.ALG"><li>Exercicio 3</li></a>
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%204.ALG"><li>Exercicio 4</li></a>
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%207.ALG"><li>Exercicio 7</li></a>
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%208.ALG"><li>Exercicio 8</li></a>
- <a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2029-08/EXERCICIO%209.ALG"><li>Exercicio 9</li></a>
-</ul>
+- [Exercicio 1 - Saldo Bancário](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio1-SaldoBancario.ALG)
 
-<h2>Exercicios Se/Senao Dia 03/09/2020</h2>
-<ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%201.ALG"><li>Exercicio 1</li></a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%202.ALG"><li>Exercicio 2</li></a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%203.ALG"><li>Exercicio 3</li></a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2003-09%20condicoes/EXERCICIO%204.ALG"><li>Exercicio 4</li></a>
-</ul>
+- [Exercicio 2 - Ordem Crescente](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio2-OrdemCrescente.ALG)
+ 
+- [Exercicio 3 - Indentificador de Triângulos](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio3-IndentificadordeTriangulos.ALG)
 
-<h2>Exercicios Dia 10/09/2020 </h2>
-<ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2010-09%20condicoes/EXERCICIO1.ALG"><li>Exercicio 1</li></a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2010-09%20condicoes/EXERCICIO2.ALG"><li>Exercicio 2</li></a>
-</ul>
+***
+## Exercicio Dia 08/10/2020
 
-<h2>Exercicios Dia 17/09/2020</h2>
-<ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2017-09/Exercicio%201%20-%20DELTA.ALG"><li>Exercicio 1 - Delta</li></a>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2017-09/EXERCICIO%202%20-%20Numeros%20Divisiveis.ALG"><li>Exercicio 2 - Números Divisiveis</li></a>
-</ul>
-
-<h2>Exercicios Dia 24/09/2020</h2>
-<ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio1-SaldoBancario.ALG"><li>Exercicio 1 - Saldo Bancário</li></a>
-
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio2-OrdemCrescente.ALG"><li>Exercicio 2 - Ordem Crescente</li></a>
-
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%2024-09/Exercicio3-IndentificadordeTriangulos.ALG"><li>Exercicio 3 - Indentificador de Triângulos</li></a>
-</ul>
-
-<h2>Exercicio Dia 08/10/2020</h2>
-<ul>
-<a href="https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicio%20Calculo%20de%20Salario%20Liquido/CalculadoraSalarioLiquido.ALG"><li>Exercicio Calculo de Salario Liquido</li></a>
-</ul>
+- [Exercicio Calculo de Salario Liquido](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicio%20Calculo%20de%20Salario%20Liquido/CalculadoraSalarioLiquido.ALG) 
