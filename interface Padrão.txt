@@ -1,9 +1,0 @@
-procedimento interface()
-inicio
-   Escreval("----------------------------------------")
-   Escreval("--------- --------")
-   Escreval("------- ---------")
-   escreval("----------------------------------------")
-   escreval()
-
-fimprocedimento
