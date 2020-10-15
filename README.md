@@ -5,7 +5,7 @@
 [VisualG Download](https://sourceforge.net/projects/visualg30/files/latest/download)
 
 ***
- ## Exercicios Feitos Nas Aulas
+## Exercicios Feitos Nas Aulas
 
  - [Calculadora de Area de Triangulo](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Exercicios%20de%20Aulas/CALCULADORA%20DE%20AREA%20DE%20TRIANGULO.ALG)
 
