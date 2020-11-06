@@ -110,3 +110,13 @@
 - [Exercicio 3](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exerc%C3%ADcios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2029-10/EX03.ALG)
 - [Exercicio 4](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exerc%C3%ADcios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2029-10/EX04.ALG)
 - [Exercicio 5](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exerc%C3%ADcios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2029-10/EX05.ALG)
+
+
+***
+## Lista de Exercícios com estrutura de repetição 05-11
+
+- [Exercicio 1](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2005-11/EX01.ALG)
+- [Exercicio 2](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2005-11/EX02.ALG)
+- [Exercicio 3](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2005-11/EX03.ALG)
+- [Exercicio 4](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2005-11/EX04.ALG)
+- [Exercicio 5](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2005-11/EX05.ALG)
