@@ -1,0 +1,239 @@
+Nome: Miguel henrique Pereira
+
+
+Exercicio 1
+------------------
+Algoritmo "ex01"
+
+Var
+n,number,p,i:inteiro
+
+
+Inicio
+escreva("Quantos Números Você deseja Informar?: ")
+leia(n)
+
+para n := 1 ate n faca
+     escreva("informe o ",n,"º: ")
+     leia(number)
+     se(number%2=0)entao
+       p:= p+1
+       senao
+       i:= i+1
+     fimse
+fimpara
+
+escreval("Quantidade de Números Pares Informados:",p)
+escreval("Quantidade de Números Impares Informados:",i)
+
+Fimalgoritmo
+------------------
+
+Exercicio 2
+------------------
+Algoritmo "ex01"
+
+Var
+   n,number,p,i,opc,tot:inteiro
+   med,calc:real
+
+
+Inicio
+mudacor("verde", "frente")
+opc:=1
+n:=1
+tot:=1
+repita
+   limpatela
+   escreva("informe o ",n,"º: (só números impares)")
+   leia(number)
+   escreva("1(continuar)|0 ou Enter(sair)")
+   leia(opc)
+   n:=n+1
+   se(number%2=1)entao
+      tot:=tot+1
+      calc:=calc + number
+      med:= calc/tot
+   fimse
+ate(opc=0)
+
+limpatela
+
+escreva("A Média Final é",med)
+
+
+
+Fimalgoritmo
+
+-------------------------------------
+Exercicio 3
+----------------------------------
+Algoritmo "ex03"
+
+Var
+   cont, cont2:inteiro
+   nota,med,aux,men,man:real
+   opc:caracter
+
+Inicio
+mudacor("verde", "frente")
+cont:= 0
+cont2:= 1
+man:= 0
+men:= 10
+
+repita
+   enquanto opc<>"n" faca
+      escreva("Digite",cont2,"º nota: ")
+      leia(nota)
+      aux:= aux + nota
+      cont := cont + 1
+      cont2:= cont2 +1
+
+      se nota > man entao
+         man := nota
+      senao
+         man := man
+      fimse
+
+      se nota < men entao
+         men := nota
+      senao
+         men := men
+      fimse
+      escreva("Deseja continuar sim[s] nao[n]: ")
+      leia(opc)
+
+      se(opc <> "n")entao
+         limpatela
+      fimse
+
+   fimenquanto
+ate(opc="n")
+
+med := aux / cont
+
+
+limpatela
+
+escreval("A Média Final é",med)
+escreval("Maior Nota: ",man)
+escreval("Menor nota: ",men)
+Fimalgoritmo
+----------------------------------------------
+Exercicios 4
+--------------------------------
+Algoritmo "ex04
+
+Var
+   cont,idade:inteiro
+   opc:caracter
+
+Inicio
+   repita
+      escreva("Digite A Idade: ")
+      leia(idade)
+      se(idade>=18)entao
+         limpatela
+         escreval("Maior de Idade!")
+         escreval("---------------")
+         escreva("Deseja continuar SIM[s] NAO[n]")
+         leia(opc)
+         se(opc<>"n")entao
+            limpatela
+         fimse
+      senao
+         limpatela
+         escreval("Menor de Idade!")
+         escreval("---------------")
+         escreva("Deseja continuar SIM[s] NAO[n]")
+         leia(opc)
+         se(opc<>"n")entao
+            limpatela
+         fimse
+      fimse
+
+      cont:=cont+1
+
+   ate(opc = "n")
+
+
+Fimalgoritmo
+
+----------------------------------
+Exercicio 5
+------------------
+algoritmo "ex05"
+Var
+   cont, cont2,imp:inteiro
+   num,med,aux,men,man,cubo,dobro,porc:real
+   opc:caracter
+
+Inicio
+mudacor("verde", "frente")
+cont:= 0
+cont2:= 1
+man:= 0
+men:= 10
+
+repita
+   enquanto opc<>"n" faca
+      escreva("Digite o ",cont2,"º Número: ")
+      leia(num)
+
+      aux:= aux + num
+      cont := cont + 1
+      cont2:= cont2 +1
+
+      se num > man entao
+         man := num
+      senao
+         man := man
+      fimse
+
+      se num < men entao
+         men := num
+      senao
+         men := men
+      fimse
+      escreva("Deseja continuar sim[s] nao[n]: ")
+      leia(opc)
+
+      se(opc <> "n")entao
+         limpatela
+      fimse
+
+
+      se(num % 2 <> 0 )entao
+          imp:= imp+1
+      fimse
+   fimenquanto
+ate(opc="n")
+porc:= aux /100
+cubo:=aux*3
+dobro:=aux*2
+med := aux / cont
+
+
+
+
+limpatela
+escreval("Soma dos Números Digitados: ",aux)
+escreval("A Média dos Números Digitados:",med)
+escreval("Maior Número Digitado: ",man)
+escreval("Menor Número Digitado: ",men)
+escreval("Dobro dos Números Digitados: ",dobro)
+escreval("Cubo dos Números Digitados: ",cubo)
+escreval("Porcentagem dos Números Digitados: ",porc,"%")
+escreval("Números Impares Digitados: ",imp)
+fimalgoritmo
+----------------------------------------
+
+
+
+
+
+
+
+
+
