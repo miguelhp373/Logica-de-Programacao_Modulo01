@@ -1,52 +1,48 @@
-Algoritmo "ex03"
+Algoritmo "ex03_idade"
+//Desenvolva um programa que receba o nome e a idade de N pessoas,
+//verifique e mostre o nome e a idade da pessoa mais velha, da pessoa
+//mais nova e a quantidade de pessoas lidas. O programa deve perguntar ao
+//final da digitação dos dados se o usuário deseja continuar digitando dados.
 
 Var
-   cont, cont2:inteiro
-   nota,med,aux,men,man:real
-   opc:caracter
+
+n, idade, maior, menor:inteiro
+go, nome, nomemaior, nomemenor:caracter
 
 Inicio
-mudacor("verde", "frente")
-cont:= 0
-cont2:= 1
-man:= 0
-men:= 10
 
-repita
-   enquanto opc<>"n" faca
-      escreva("Digite",cont2,"º nota: ")
-      leia(nota)
-      aux:= aux + nota
-      cont := cont + 1
-      cont2:= cont2 +1
+go := "s"
+n := 0
+maior := 0
+menor := 10000
 
-      se nota > man entao
-         man := nota
-      senao
-         man := man
-      fimse
+enquanto go = "s" faca
+         escreval("Digite um nome: ")
+         leia(nome)
+         escreval("Digite uma idade: ")
+         leia(idade)
+         
+         se (idade >= maior) entao
+            maior := idade
+            nomemaior := nome
+         senao
+            maior := maior
+         fimse
+         
+         se (idade <= menor) entao
+            menor := idade
+            nomemenor := nome
+         senao
+            menor := menor
+         fimse
+         n := n + 1
+         escreval("Deseja digitar outra idade (s ou n): ")
+         leia(go)
+fimenquanto
 
-      se nota < men entao
-         men := nota
-      senao
-         men := men
-      fimse
-      escreva("Deseja continuar sim[s] nao[n]: ")
-      leia(opc)
+limpatela()
+escreval("Foram informadas",n," pessoas")
+escreval(nomemaior," com",maior," anos é a pessoa com a maior idade")
+escreval(nomemenor," com",menor," anos é a pessoa com a menor idade")
 
-      se(opc <> "n")entao
-         limpatela
-      fimse
-
-   fimenquanto
-ate(opc="n")
-
-med := aux / cont
-
-
-limpatela
-
-escreval("A Média Final é",med)
-escreval("Maior Nota: ",man)
-escreval("Menor nota: ",men)
 Fimalgoritmo

@@ -1,23 +1,45 @@
-Algoritmo "ex04"
+Algoritmo "ex03"
 
 
-var
-   numero, meio, i:inteiro
+Var
 
-inicio
+n, idade, maior, menor:inteiro
+go, nome, nomemaior, nomemenor:caracter
 
+Inicio
 
-   para i de 1 até 18
+go := "s"
+n := 0
+maior := 0
+menor := 10000
 
-      escreva "Entre com o número, ao todo será solicitado 5 números:"
+enquanto go = "s" faca
+         escreval("Digite um nome: ")
+         leia(nome)
+         escreval("Digite uma idade: ")
+         leia(idade)
+         
+         se (idade >= maior) entao
+            maior := idade
+            nomemaior := nome
+         senao
+            maior := maior
+         fimse
+         
+         se (idade <= menor) entao
+            menor := idade
+            nomemenor := nome
+         senao
+            menor := menor
+         fimse
+         n := n + 1
+         escreval("Deseja digitar outra idade (s ou n): ")
+         leia(go)
+fimenquanto
 
-      leia(numero)
+limpatela()
+escreval("Foram informadas",n," pessoas")
+escreval(nomemaior," com",maior," anos é a pessoa com a maior idade")
+escreval(nomemenor," com",menor," anos é a pessoa com a menor idade")
 
-      se (numero >= 10) e (numero <= 150)
-         meio:=meio+1
-      fimse
-
-
-      escreva( "Ao total, foram digitados ",meio," números no intervalo entre 10 e 150")
-
-fimalgoritmo
+Fimalgoritmo

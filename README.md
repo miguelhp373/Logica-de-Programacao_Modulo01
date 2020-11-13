@@ -120,3 +120,9 @@
 - [Exercicio 3](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2005-11/EX03.ALG)
 - [Exercicio 4](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2005-11/EX04.ALG)
 - [Exercicio 5](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Lista%20de%20Exercicios%20com%20estrutura%20de%20repeti%C3%A7%C3%A3o%2005-11/EX05.ALG)
+
+***
+
+## Exercicio Mega-Sena
+
+- [Projeto Mega-Sena]()
