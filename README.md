@@ -125,4 +125,4 @@
 
 ## Exercicio Mega-Sena
 
-- [Projeto Mega-Sena]()
+- [Projeto Mega-Sena](https://github.com/miguelhp373/Logica-de-Programacao/blob/master/Projeto%20Mega-Sena/MEGA-SENA.ALG)
