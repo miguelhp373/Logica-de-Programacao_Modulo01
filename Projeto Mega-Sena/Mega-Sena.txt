@@ -9,7 +9,7 @@ Var
    enter,OPC:caracter
 
 
-   // Aqui È Um Procedimento Para Cada Vez Que o Usu·rio quiser Fazer
+   // Aqui √© Um Procedimento Para Cada Vez Que o Usu√°rio quiser Fazer
    // Um Jogo Novo, gerar A Interface sem Precisar escreve-la Novamente
 Procedimento show()
 Inicio
@@ -20,8 +20,8 @@ Escreval("Mega-sena Virtual")
 Escreval("-----------------")
 escreval()
 escreval("Regras:")
-escreval("*N‚o È Permitido Repetir Os N˙meros")
-escreval("*N‚o È Permitido N˙meros Menores que 1 e Maiores que 60")
+escreval("*N√¢o √© Permitido Repetir Os N√∫meros")
+escreval("*N√¢o √© Permitido N√∫meros Menores que 1 e Maiores que 60")
 escreval()
 Escreval("-----------------")
 Escreval("Pressione ENTER Para Proseguir & Aceitar Os Termos / ou Digite [N] Para Sair:")
@@ -39,7 +39,7 @@ fimse
 
 LimpaTela
 
-//Aqui Gera Os N˙meros Da Mega-Sena;
+//Aqui Gera Os N√∫meros Da Mega-Sena;
 Para cont := 1 ate 6 faca
    Random[cont]:=randi(60)
    se ((Random[1] = Random[2]) ou (Random[1] = Random[3]) ou (Random[1] = Random[4]) ou (Random[1] = Random[5]) ou (Random[1] = Random[6]) ou (Random[2] = Random[3]) ou (Random[2] = Random[4]) ou (Random[2] = Random[5]) ou (Random[2] = Random[6]) ou (Random[3] = Random[4]) ou (Random[3] = Random[5]) ou (Random[3] = Random[6]) ou (Random[4] = Random[5]) ou (Random[4] = Random[6]) ou (Random[5] = Random[6]) ou (Random[1] = 0) ou (Random[2] = 0)ou (Random[3] = 0)ou (Random[4] = 0)ou (Random[5] = 0)ou (Random[6] = 0)) entao
@@ -71,22 +71,22 @@ Para cont := 1 ate 6 faca
 Fimpara
 //----------------------------------
 
-//Aqui Verifica se Os N˙meros Digitados Pelo Usu·rio S„o Os
-//Mesmos que os N˙meros Gerados;
+//Aqui Verifica se Os N√∫meros Digitados Pelo Usu√°rio S√£o Os
+//Mesmos que os N√∫meros Gerados;
 
 Se(Tot = 6)entao
    LimpaTela
    escreval("")
-   escreval("PARAB…NS! VocÍ Acertou os 6 N˙meros, e Ganhou a Mega-Sena o PrÍmio Maximo!")
+   escreval("PARAB√âNS! Voc√™ Acertou os 6 N√∫meros, e Ganhou a Mega-Sena o Pr√™mio Maximo!")
    escreval("--------------------------------------------------------------------------")
-   Escreval("N˙meros Sortedos:")
+   Escreval("N√∫meros Sortedos:")
    //Ordena os Numeros
    para cont de 1 ate 5 faca
       para counter de cont+1 ate 6 faca // para colocar em ordem crescente
-         se Random[cont] >  Random[counter] entao  // verifica qual n˙mero È maior
-            AUX  := Random[cont]// preserva o n˙mero que est· nessa posiÁ„o do vetor
-            Random[cont] := Random[counter]// passa o n˙mero menor para a posiÁ„o anterior
-            Random[counter] :=  AUX       // coloca o n˙mero maior na posiÁ„o posterior
+         se Random[cont] >  Random[counter] entao  // verifica qual n√∫mero √© maior
+            AUX  := Random[cont]// preserva o n√∫mero que est√° nessa posi√ß√£o do vetor
+            Random[cont] := Random[counter]// passa o n√∫mero menor para a posi√ß√£o anterior
+            Random[counter] :=  AUX       // coloca o n√∫mero maior na posi√ß√£o posterior
          fimse
       fimpara
    fimpara
@@ -101,14 +101,14 @@ Se(Tot = 6)entao
    escreval()
    escreval("------------------")
    escreval()
-   Escreval("N˙meros Digitados:")
+   Escreval("N√∫meros Digitados:")
    //Ordena os Numeros
    para cont de 1 ate 5 faca
       para counter de cont+1 ate 6 faca // para colocar em ordem crescente
-         se Numbers[cont] >  Numbers[counter] entao  // verifica qual n˙mero È maior
-            AUX  := Numbers[cont]// preserva o n˙mero que est· nessa posiÁ„o do vetor
-            Numbers[cont] := Numbers[counter]// passa o n˙mero menor para a posiÁ„o anterior
-            Numbers[counter] :=  AUX       // coloca o n˙mero maior na posiÁ„o posterior
+         se Numbers[cont] >  Numbers[counter] entao  // verifica qual n√∫mero √© maior
+            AUX  := Numbers[cont]// preserva o n√∫mero que est√° nessa posi√ß√£o do vetor
+            Numbers[cont] := Numbers[counter]// passa o n√∫mero menor para a posi√ß√£o anterior
+            Numbers[counter] :=  AUX       // coloca o n√∫mero maior na posi√ß√£o posterior
          fimse
       fimpara
    fimpara
@@ -128,16 +128,16 @@ senao
 
       LimpaTela
       escreval("")
-      escreval("PARAB…NS! VocÍ Acertou os 5 N˙meros, e Completou a Quina!")
+      escreval("PARAB√âNS! Voc√™ Acertou os 5 N√∫meros, e Completou a Quina!")
       escreval("---------------------------------------------------------")
-      Escreval("N˙meros Sortedos:")
+      Escreval("N√∫meros Sortedos:")
       //Ordena os Numeros
       para cont de 1 ate 5 faca
          para counter de cont+1 ate 6 faca // para colocar em ordem crescente
-            se Random[cont] >  Random[counter] entao  // verifica qual n˙mero È maior
-               AUX  := Random[cont]// preserva o n˙mero que est· nessa posiÁ„o do vetor
-               Random[cont] := Random[counter]// passa o n˙mero menor para a posiÁ„o anterior
-               Random[counter] :=  AUX       // coloca o n˙mero maior na posiÁ„o posterior
+            se Random[cont] >  Random[counter] entao  // verifica qual n√∫mero √© maior
+               AUX  := Random[cont]// preserva o n√∫mero que est√° nessa posi√ß√£o do vetor
+               Random[cont] := Random[counter]// passa o n√∫mero menor para a posi√ß√£o anterior
+               Random[counter] :=  AUX       // coloca o n√∫mero maior na posi√ß√£o posterior
             fimse
          fimpara
       fimpara
@@ -152,14 +152,14 @@ senao
       escreval()
       escreval("------------------")
       escreval()
-      Escreval("N˙meros Digitados:")
+      Escreval("N√∫meros Digitados:")
       //Ordena os Numeros
       para cont de 1 ate 5 faca
          para counter de cont+1 ate 6 faca // para colocar em ordem crescente
-            se Numbers[cont] >  Numbers[counter] entao  // verifica qual n˙mero È maior
-               AUX  := Numbers[cont]// preserva o n˙mero que est· nessa posiÁ„o do vetor
-               Numbers[cont] := Numbers[counter]// passa o n˙mero menor para a posiÁ„o anterior
-               Numbers[counter] :=  AUX       // coloca o n˙mero maior na posiÁ„o posterior
+            se Numbers[cont] >  Numbers[counter] entao  // verifica qual n√∫mero √© maior
+               AUX  := Numbers[cont]// preserva o n√∫mero que est√° nessa posi√ß√£o do vetor
+               Numbers[cont] := Numbers[counter]// passa o n√∫mero menor para a posi√ß√£o anterior
+               Numbers[counter] :=  AUX       // coloca o n√∫mero maior na posi√ß√£o posterior
             fimse
          fimpara
       fimpara
@@ -179,16 +179,16 @@ senao
 
          LimpaTela
          escreval("")
-         escreval("PARAB…NS! VocÍ Acertou os 4 N˙meros, e  Completou a Quadra!")
+         escreval("PARAB√âNS! Voc√™ Acertou os 4 N√∫meros, e  Completou a Quadra!")
          escreval("------------------------------------------------------------")
-         Escreval("N˙meros Sortedos:")
+         Escreval("N√∫meros Sortedos:")
          //Ordena os Numeros
          para cont de 1 ate 5 faca
             para counter de cont+1 ate 6 faca // para colocar em ordem crescente
-               se Random[cont] >  Random[counter] entao  // verifica qual n˙mero È maior
-                  AUX  := Random[cont]// preserva o n˙mero que est· nessa posiÁ„o do vetor
-                  Random[cont] := Random[counter]// passa o n˙mero menor para a posiÁ„o anterior
-                  Random[counter] :=  AUX       // coloca o n˙mero maior na posiÁ„o posterior
+               se Random[cont] >  Random[counter] entao  // verifica qual n√∫mero √© maior
+                  AUX  := Random[cont]// preserva o n√∫mero que est√° nessa posi√ß√£o do vetor
+                  Random[cont] := Random[counter]// passa o n√∫mero menor para a posi√ß√£o anterior
+                  Random[counter] :=  AUX       // coloca o n√∫mero maior na posi√ß√£o posterior
                fimse
             fimpara
          fimpara
@@ -203,14 +203,14 @@ senao
          escreval()
          escreval("------------------")
          escreval()
-         Escreval("N˙meros Digitados:")
+         Escreval("N√∫meros Digitados:")
          //Ordena os Numeros
          para cont de 1 ate 5 faca
             para counter de cont+1 ate 6 faca // para colocar em ordem crescente
-               se Numbers[cont] >  Numbers[counter] entao  // verifica qual n˙mero È maior
-                  AUX  := Numbers[cont]// preserva o n˙mero que est· nessa posiÁ„o do vetor
-                  Numbers[cont] := Numbers[counter]// passa o n˙mero menor para a posiÁ„o anterior
-                  Numbers[counter] :=  AUX       // coloca o n˙mero maior na posiÁ„o posterior
+               se Numbers[cont] >  Numbers[counter] entao  // verifica qual n√∫mero √© maior
+                  AUX  := Numbers[cont]// preserva o n√∫mero que est√° nessa posi√ß√£o do vetor
+                  Numbers[cont] := Numbers[counter]// passa o n√∫mero menor para a posi√ß√£o anterior
+                  Numbers[counter] :=  AUX       // coloca o n√∫mero maior na posi√ß√£o posterior
                fimse
             fimpara
          fimpara
@@ -229,16 +229,16 @@ senao
 
             LimpaTela
             escreval("")
-            escreval("N„o Foi Desta Vez, VocÍ Acerte ",tot," N˙meros!")
+            escreval("N√£o Foi Desta Vez, Voc√™ Acerte ",tot," N√∫meros!")
             escreval("------------------------------------------------")
-            Escreval("N˙meros Sortedos:")
+            Escreval("N√∫meros Sortedos:")
             //Ordena os Numeros
             para cont de 1 ate 5 faca
                para counter de cont+1 ate 6 faca // para colocar em ordem crescente
-                  se Random[cont] >  Random[counter] entao  // verifica qual n˙mero È maior
-                     AUX  := Random[cont]// preserva o n˙mero que est· nessa posiÁ„o do vetor
-                     Random[cont] := Random[counter]// passa o n˙mero menor para a posiÁ„o anterior
-                     Random[counter] :=  AUX       // coloca o n˙mero maior na posiÁ„o posterior
+                  se Random[cont] >  Random[counter] entao  // verifica qual n√∫mero √© maior
+                     AUX  := Random[cont]// preserva o n√∫mero que est√° nessa posi√ß√£o do vetor
+                     Random[cont] := Random[counter]// passa o n√∫mero menor para a posi√ß√£o anterior
+                     Random[counter] :=  AUX       // coloca o n√∫mero maior na posi√ß√£o posterior
                   fimse
                fimpara
             fimpara
@@ -253,14 +253,14 @@ senao
             escreval()
             escreval("------------------")
             escreval()
-            Escreval("N˙meros Digitados:")
+            Escreval("N√∫meros Digitados:")
             //Ordena os Numeros
             para cont de 1 ate 5 faca
                para counter de cont+1 ate 6 faca // para colocar em ordem crescente
-                  se Numbers[cont] >  Numbers[counter] entao  // verifica qual n˙mero È maior
-                     AUX  := Numbers[cont]// preserva o n˙mero que est· nessa posiÁ„o do vetor
-                     Numbers[cont] := Numbers[counter]// passa o n˙mero menor para a posiÁ„o anterior
-                     Numbers[counter] :=  AUX       // coloca o n˙mero maior na posiÁ„o posterior
+                  se Numbers[cont] >  Numbers[counter] entao  // verifica qual n√∫mero √© maior
+                     AUX  := Numbers[cont]// preserva o n√∫mero que est√° nessa posi√ß√£o do vetor
+                     Numbers[cont] := Numbers[counter]// passa o n√∫mero menor para a posi√ß√£o anterior
+                     Numbers[counter] :=  AUX       // coloca o n√∫mero maior na posi√ß√£o posterior
                   fimse
                fimpara
             fimpara
@@ -281,10 +281,10 @@ senao
 fimse
 //-----------------------------------------------------
 
-//Aqui Pergunta ao Usu·rio se Deseja Fazer Um Jogo Novo
+//Aqui Pergunta ao Usu√°rio se Deseja Fazer Um Jogo Novo
 escreval("")
 escreval("")
-Escreval("Deseja Fazer uma Nova Aposta Sim[S] e N„o[N]")
+Escreval("Deseja Fazer uma Nova Aposta Sim[S] e N√£o[N]")
 leia(OPC)
 se(OPC = "s") ou (OPC ="S")entao
    LimpaTela
