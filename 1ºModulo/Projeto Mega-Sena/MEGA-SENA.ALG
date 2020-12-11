@@ -2,15 +2,22 @@ Algoritmo "MegaSena"
 
 Var
    Random:Vetor[1..6] de inteiro
-   Tot:inteiro
-   cont,counter,AUX:inteiro
+   cont,counter,cont1,counter2,AUX:inteiro
+   enter,OPC,rep,msg:caracter
+   Tot,n1,n2,n3,n4,n5,n6:inteiro
    Numbers:Vetor[1..6] de inteiro
    Acertos:Vetor[1..6]de Inteiro
-   enter,OPC:caracter
+
 
 
    // Aqui é Um Procedimento Para Cada Vez Que o Usuário quiser Fazer
    // Um Jogo Novo, gerar A Interface sem Precisar escreve-la Novamente
+Procedimento colhernumero()
+Inicio
+   Escreva("Digite Seu Palpite[",cont,"]:")
+   leia(Numbers[cont])
+fimprocedimento
+
 Procedimento show()
 Inicio
 
@@ -57,18 +64,31 @@ FimPara
 limpatela
 
 //Aqui Captura os Palpites do Usuario;
-Para cont := 1 ate 6 faca
-   Repita
-      limpatela
-      Escreva("Digite Seu Palpite de 1 a 60: ")
-      leia(Numbers[cont])
-      Escreval()
-      se(Numbers[cont] = Random[cont])entao
-         Tot:= Tot+1
-      Fimse
+rep := "true"
 
-   ate(Numbers[cont] > 0)e(Numbers[cont] <61)
-Fimpara
+enquanto rep = "true" faca
+   para cont:= 1 ate 6 faca
+      limpatela
+      escreval(msg)
+      colhernumero()
+      se(Numbers[cont]= Random[cont])entao
+         Tot:=Tot+1
+      fimse
+   fimpara
+   n1:= Numbers[1]
+   n2:= Numbers[2]
+   n3:= Numbers[3]
+   n4:= Numbers[4]
+   n5:= Numbers[5]
+   n6:= Numbers[6]
+   se(Numbers[1]= Numbers[2])ou (Numbers[1]= Numbers[3])ou(Numbers[1]= Numbers[4])ou(Numbers[1]= Numbers[5])ou(Numbers[1]= Numbers[6])ou(Numbers[2]= Numbers[3])ou(Numbers[2]= Numbers[4])ou(Numbers[2]= Numbers[5])ou(Numbers[2]= Numbers[6])ou(Numbers[3]= Numbers[4])ou(Numbers[3]= Numbers[5])ou(Numbers[3]= Numbers[6])ou(Numbers[4]= Numbers[5])ou(Numbers[4]= Numbers[6])ou(Numbers[3]= Numbers[5])ou (Numbers[5]= Numbers[6])entao
+      rep:="true"
+      msg:="Foram Inseridos Números Repetidos"
+   senao
+      rep:="false"
+      msg:=""
+   fimse
+fimenquanto
 //----------------------------------
 
 //Aqui Verifica se Os Números Digitados Pelo Usuário São Os
